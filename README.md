@@ -3,7 +3,7 @@
 
 <h3 align="center"> Hello , I'm Rutuja Sawant </h3>
 
-- 🔭 I’m currently pursuing **BE in AI-DS**
+
 
 - 🌱 I’m currently learning **python**
 
