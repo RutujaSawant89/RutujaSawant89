@@ -1,14 +1,12 @@
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rutujasawant._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rutuja-sawant-3b77aa270/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rutujasawant8905@gmail.com) 
 
-<h3 align="center">I'm pursuing BE in AI-DS, currently in second yr, interested in learning new set of programming skills</h3>
 
-- 🌱 I’m currently learning **Javascript, python**
-
+<h3 align="left">Hello , I'm Rutuja Sawant </h3>
+- 🔭 I’m currently **pursuing BE in AI-DS**
+- 🌱 I’m currently learning **python**
 - 📫 How to reach me **rutujasawant8905@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
